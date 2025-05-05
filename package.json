@@ -1,0 +1,19 @@
+{
+  "name": "weatherapi-javascript",
+  "version": "1.0.0",
+  "description": "This project is a weather application that utilizes a weather API to retrieve forecast data for specific cities. The application allows users to view weather forecasts either hourly or summarized for a selected city.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naminaths/weather-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naminaths/weather-api/issues"
+  },
+  "homepage": "https://github.com/Naminaths/weather-api#readme"
+}
