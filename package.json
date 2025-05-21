@@ -2,8 +2,9 @@
   "name": "weatherapi-javascript",
   "version": "1.0.0",
   "description": "This project is a weather application that utilizes a weather API to retrieve forecast data for specific cities. The application allows users to view weather forecasts either hourly or summarized for a selected city.",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
